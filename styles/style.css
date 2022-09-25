@@ -93,7 +93,6 @@
 
 .description {
   padding-top: 100px;
-  background-color: #f2f2f2;
   display: flex;
 }
 
@@ -164,7 +163,7 @@
   /* width: 60%; */
 }
 
-.section-title_dark, .section-subtitle_dark {
+.section-title_theme_dark, .section-subtitle_theme_dark {
   color: #fff;
 }
 
@@ -183,7 +182,6 @@
 
 .digits {
   padding: 100px 0;
-  background-color: #f2f2f2;
 }
 
 .digits__section_subtitle {
