@@ -10,5 +10,4 @@
   justify-content: flex-start;
   z-index: 0;
   overflow: hidden;
-  /* выше установили ограничения для секции */
 }

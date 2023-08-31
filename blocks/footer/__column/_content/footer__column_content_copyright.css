@@ -2,7 +2,5 @@
   height: 100%;
   flex-basis: 711px;
   display: flex;
-  /* flex-direction: column;
-  justify-content: space-between; */
   align-items: flex-start;
 }
